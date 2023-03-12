@@ -5,7 +5,7 @@ The text can be viewed on on [GitHub](https://github.com/hardchaos/odysslay/blob
 
 This project is intended not as something worth reading, but more of as a statement on what the future of education might look like. The cost of mass-produced text is heading straight for zero, so hopefully we can leverage it to improve communications with people different than ourselves. All 19,000 rhyming lines cost less than $1 and took a little over an hour to generate.
 
-The final product is far from perfect, but there are definitely some funny bits.
+The final product is far from perfect, but there are definitely some funny bits, including: (in no particular order)
 ```
 This tale's got drama, it's got suspense
 It's got more twists than a TikTok dance
