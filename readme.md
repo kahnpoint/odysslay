@@ -1,11 +1,9 @@
 # The Odysslay
-### Homer's Odyssey rewritten in gen-z speak
+### Homer's Odyssey rewritten in Gen-Z speak (by ChatGPT)
 
-I had ChatGPT rewrite all of Homer's Odyssey in Gen-Z speak.
+This project is intended not as something worth reading, but more of as a statement on what the future of education might look like. The cost of mass-produced text is heading straight for zero, so hopefully we can leverage it to improve communications with people different than ourselves. All 19,000 rhyming lines cost less than $1 and took about a little over an hour to generate.
 
-This repository is intended as more of an statement on what the future of education might look like. The cost of mass-produced text is heading straight for zero, so hopefully we leverage it to improve our communications with people different than ourselves. All 19,000 rhyming lines cost less than $1 and took about a little over an hour to generate.
-
-The final product is far from perfect, but there are definitely some funny bits. It is definitely a far better starting point than beginning from scratch. 
+The final product is far from perfect, but there are definitely some funny bits.
 ```
 This tale's got drama, it's got suspense
 It's got more twists than a TikTok dance
@@ -37,9 +35,11 @@ Telemachus is ready to fight,
 like he's still alive in Fortnite.
 ```
 
-ChatGPT LOVES putting in hashtags if you mention twitter in your context prompt. I tried to explicitly negate that, but some still slipped through.
-```#PenelopeGotHerBaeBack #LoveWins #FaithInLove #HomerWho #GREEKEDOUT 🏛️🌊```
+ChatGPT LOVES putting in hashtags if you mention twitter in your context prompt. I tried to explicitly negate them, but some still slipped through.
+```
+#PenelopeGotHerBaeBack #LoveWins #FaithInLove #HomerWho #GREEKEDOUT 🏛️🌊
+```
 
-I considered proofreading it and making a hard copy (because I think that would be hilarious), but after getting through Book I, I decided that there are far better things for me to spend my time on.
+I considered proofreading The Odysslay and making a hard copy (because I think that would be hilarious), but after getting through Book I, I decided that there are far better things for me to spend my time on. It is definitely a far better starting point than beginning from scratch, but there is still considerable work to be done. Also, I feel like I would go insane editing 500 pages of AI generated verses about The Odyssey. 
 
 The text (with proofread Book I) can be viewed [here](https://docs.google.com/document/d/1eFDktTd9upkeeb21CR81_jIS-BcPYF4go_QovWKZXF4/edit?usp=sharing).
