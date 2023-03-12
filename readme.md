@@ -3,7 +3,7 @@
 
 The text can be viewed on on [GitHub](https://github.com/hardchaos/odysslay/blob/master/odysslay.txt) or [Google Docs](https://docs.google.com/document/d/1eFDktTd9upkeeb21CR81_jIS-BcPYF4go_QovWKZXF4/edit?usp=sharing), which has a proofread Book I.
 
-This project is intended not as something worth reading, but more of as a statement on what the future of education might look like. The cost of mass-produced text is heading straight for zero, so hopefully we can leverage it to improve communications with people different than ourselves. All 19,000 rhyming lines cost less than $1 and took about a little over an hour to generate.
+This project is intended not as something worth reading, but more of as a statement on what the future of education might look like. The cost of mass-produced text is heading straight for zero, so hopefully we can leverage it to improve communications with people different than ourselves. All 19,000 rhyming lines cost less than $1 and took a little over an hour to generate.
 
 The final product is far from perfect, but there are definitely some funny bits.
 ```
