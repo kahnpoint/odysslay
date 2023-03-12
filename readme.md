@@ -42,6 +42,6 @@ ChatGPT LOVES putting in hashtags if you mention twitter in your context prompt.
 #PenelopeGotHerBaeBack #LoveWins #FaithInLove #HomerWho #GREEKEDOUT 🏛️🌊
 ```
 
-I considered proofreading The Odysslay and making a hard copy (because I think that would be hilarious), but after getting through Book I, I decided that there are far better things for me to spend my time on. It is definitely a far better starting point than beginning from scratch, but there is still considerable work to be done. Also, I feel like I would go insane editing 500 pages of AI generated verses about The Odyssey. 
+I considered proofreading The Odysslay and making a hard copy (because I think that would be hilarious), but after getting through Book I, I decided that there are far better things for me to spend my time on. It is definitely a much better starting point than beginning from scratch, but there is still considerable work to be done. Also, I feel like I would lose my mind editing 500 pages of AI generated verses about The Odyssey. 
 
 The text for The Odyssey was Provided by The Internet Classics Archive and is available online at [http://classics.mit.edu//Homer/odyssey.html](http://classics.mit.edu//Homer/odyssey.html)
